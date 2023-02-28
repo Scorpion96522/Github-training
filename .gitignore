@@ -17,3 +17,4 @@ eror.txt
 # readme (название ветки)
 # для того чтобы загрузить git  на github  
 # прописываем команду git config --global user.name
+# чтобы добавить измениения в git  прописываем команду git push
