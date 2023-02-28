@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;}
+
+body{
+ background: #19c3d3; 
+ }
+
+ .GIT {
+    margin-top: 100px;
+    margin-left: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 300px;
+    background: #31c204;
+
+ }
+
+ .Git {
+    /* margin-top: 300px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
